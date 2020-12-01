@@ -3,11 +3,11 @@
     "pins": [
       {
         "package": "AEXML",
-        "repositoryURL": "https://github.com/tadija/AEXML",
+        "repositoryURL": "https://github.com/alvarhansen/AEXML",
         "state": {
-          "branch": null,
-          "revision": "502c4d43a6cc9c395d19111e09dc62ad834977b5",
-          "version": "4.6.0"
+          "branch": "unix",
+          "revision": "a0da00e7e6adcd10a0a5daefa58fccae9f6deb1a",
+          "version": null
         }
       },
       {
